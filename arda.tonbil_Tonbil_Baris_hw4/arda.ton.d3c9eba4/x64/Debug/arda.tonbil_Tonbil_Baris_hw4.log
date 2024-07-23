@@ -1,0 +1,30 @@
+﻿  arda.tonbil_Tonbil_Baris_hw4.cpp
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(286,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(291,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(89,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(89,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(266,29):
+  	see reference to class template instantiation 'ContactManager<Contact>' being compiled
+  	C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(87,10):
+  	while compiling class template member function 'bool ContactManager<Contact>::binarySearch(const std::vector<std::string,std::allocator<std::string>> &,std::vector<Contact,std::allocator<Contact>> &)'
+  		C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(317,34):
+  		see the first reference to 'ContactManager<Contact>::binarySearch' in 'main'
+  
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(66,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(66,15):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(65,10):
+  	while compiling class template member function 'void ContactManager<Contact>::heapSort(void)'
+  		C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(296,25):
+  		see the first reference to 'ContactManager<Contact>::heapSort' in 'main'
+  
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(39,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(39,19):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(36,10):
+  	while compiling class template member function 'void ContactManager<Contact>::insertionSort(void)'
+  		C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(281,35):
+  		see the first reference to 'ContactManager<Contact>::insertionSort' in 'main'
+  
+  arda.tonbil_Tonbil_Baris_hw4.vcxproj -> C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\x64\Debug\arda.tonbil_Tonbil_Baris_hw4.exe

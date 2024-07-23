@@ -1,0 +1,7 @@
+﻿  arda.tonbil_Tonbil_Baris_hw4.cpp
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(92,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(97,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(172,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(247,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\arda.tonbil_Tonbil_Baris_hw4.cpp(291,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  arda.tonbil_Tonbil_Baris_hw4.vcxproj -> C:\Users\ardat\Desktop\arda.tonbil_Tonbil_Baris_hw4\x64\Debug\arda.tonbil_Tonbil_Baris_hw4.exe
